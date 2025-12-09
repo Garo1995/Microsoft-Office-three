@@ -693,6 +693,9 @@ p{
 .microsoft-btn-mobile{
     display: none;
 }
+.microsoft-pic{
+    position: relative;
+}
 .microsoft-pic img{
     border-radius: 30px;
     object-fit: cover;
